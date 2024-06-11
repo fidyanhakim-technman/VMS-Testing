@@ -1,6 +1,3 @@
-Here's the updated README file with the added instruction about having the project running on your local machine at port 3000:
-
-```markdown
 # VMS UI Testing Framework
 
 ## Description
