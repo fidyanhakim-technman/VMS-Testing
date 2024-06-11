@@ -1,3 +1,6 @@
+Here's the updated README file with the added instruction about having the project running on your local machine at port 3000:
+
+```markdown
 # VMS UI Testing Framework
 
 ## Description
@@ -25,13 +28,17 @@ VMS UI Testing Framework is a user interface testing framework built using Robot
 
 ## Usage Instructions
 
-1. **Navigate to the Tests Directory**
+1. **Ensure the Project is Running**
+
+   Make sure the VMS project is running on your local machine at port 3000.
+
+2. **Navigate to the Tests Directory**
 
    ```bash
    cd <project-directory>/tests
    ```
 
-2. **Run Tests**
+3. **Run Tests**
 
    Execute the desired test suite using the `robot` command followed by the path to the test suite.
 
